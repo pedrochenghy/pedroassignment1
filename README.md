@@ -1,2 +1,6 @@
 # pedroassignment1
-Sample
+Sample repo that Pedro made!
+
+### subheading
+
+Explain why this is and how it works... *italics*
